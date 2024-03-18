@@ -90,6 +90,7 @@ li {
     grid-template-columns: 2fr repeat(5, 1fr);
     overflow: hidden;
     padding: 1em 1em 0 1em;
+    margin-bottom: 1em;
    
     display: grid;
     grid-template-areas:
@@ -184,6 +185,7 @@ li {
     flex-direction: column;
     width: 40%;
     justify-content: space-evenly;
+    gap:.5em;
     padding: 1em 1em 1em 1em;
 }
 
